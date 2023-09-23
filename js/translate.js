@@ -94,11 +94,11 @@ const i18n = {
   'body-apoitment__titl': 'It’s time change your life today',
   'book_an_appoinment': 'Book an Appoinment',
   'category__titl': 'Category',
-'about__item': 'Partners',
-'about__item2': 'Careers',
-'about__item3': 'Press',
-'about__item4': 'Community',
-'about__titl': 'About',
+  'about__item': 'Partners',
+  'about__item2': 'Careers',
+  'about__item3': 'Press',
+  'about__item4': 'Community',
+  'about__titl': 'About',
 
     },
     'ru': {
@@ -178,8 +178,7 @@ const i18n = {
   'about__item2': 'Карьера',
   'about__item3': 'Нажим',
   'about__item4': 'Сообщество',
-  'about__titl': 'Подробнее',
-  
+  'about__titl': 'Подробнее', 
     },
   };
 
