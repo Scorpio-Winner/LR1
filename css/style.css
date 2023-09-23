@@ -868,7 +868,7 @@ h6 {
 }
 
 .online {
-  padding-bottom: 128px;
+  padding-bottom: 50px;
   background: var(--doctor-bg);
   backdrop-filter: blur(22px);
   padding-top: 7px;
@@ -1057,8 +1057,8 @@ h6 {
 }
 
 .clients {
-  padding-top: 230px;
-  padding-bottom: 205px;
+  padding-top: 180px;
+  padding-bottom: 170px;
 }
 
 .clients__container {
@@ -1451,6 +1451,10 @@ h6 {
   background:var(--input_email_color);
 }
 
+.audio-player {
+  margin-top: 7vh;
+}
+
 @media (max-width: 1030px) {
   [class*=__container] {
     max-width: 60.625rem;
@@ -1728,7 +1732,7 @@ h6 {
 
   .clients {
     padding-top: 400px;
-    padding-bottom: 198px;
+    padding-bottom: 128px;
   }
 
   .clients__titl {
