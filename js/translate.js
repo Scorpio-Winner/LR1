@@ -99,6 +99,7 @@ const i18n = {
   'about__item3': 'Press',
   'about__item4': 'Community',
   'about__titl': 'About',
+  'switch__theme': 'Switch Theme',
 
     },
     'ru': {
@@ -179,6 +180,7 @@ const i18n = {
   'about__item3': 'Нажим',
   'about__item4': 'Сообщество',
   'about__titl': 'Подробнее', 
+  'switch__theme': 'Сменить тему',
     },
   };
 
